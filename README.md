@@ -1,4 +1,4 @@
-demo
+README
 ====
 
-第一次简单的测试，不知道网速怎么样
+learn to develop an iOS app with Sencha Touch 
